@@ -1,0 +1,14 @@
+table {
+  width: 100%;
+}
+
+ul li {
+  list-style: none;
+}
+
+.alinear {
+  text-align: center;
+  margin-top: 20px;
+}
+
+
